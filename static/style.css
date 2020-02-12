@@ -9,7 +9,7 @@ h1 {
 }
 ul.main-menu {
     list-style-type: none;
-    margin: 0;
+    margin: auto;
     padding: 0;
 }
 ul.main-menu>li {
