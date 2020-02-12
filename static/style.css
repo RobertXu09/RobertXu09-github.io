@@ -4,6 +4,7 @@ body {
 h1 { 
     color: black;
     margin: auto;
+    margin-top: 10%;
     text-align: center;
 }
 ul.main-menu {
