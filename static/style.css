@@ -2,9 +2,9 @@ body {
     background-color: white;
 }
 h1 { 
-    color: blue;
+    color: black;
     margin: auto;
-    margin-top: 10%;
+    margin-top: 3%;
     text-align: center;
 }
 ul.main-menu {
