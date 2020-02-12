@@ -9,9 +9,8 @@ h1 {
 }
 ul.main-menu {
     list-style-type: none;
-    margin: auto;
+    display: inline-block;
     padding: 0;
-    text-align: center;
 }
 ul.main-menu>li {
     display: inline;
