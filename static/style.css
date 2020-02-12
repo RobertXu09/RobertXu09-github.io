@@ -2,7 +2,7 @@ body {
     background-color: white;
 }
 h1 { 
-    color: red;
+    color: green;
     margin: 3% auto;
     text-align: center;
 }
@@ -10,6 +10,7 @@ ul.main-menu {
     list-style-type: none;
     margin: auto;
     padding: 0;
+    text-align: center;
 }
 ul.main-menu>li {
     display: inline;
