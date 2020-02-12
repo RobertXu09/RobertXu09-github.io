@@ -2,7 +2,7 @@ body {
     background-color: white;
 }
 h1 { 
-    color: green;
+    color: black;
     margin: 3% auto;
     text-align: center;
 }
@@ -14,4 +14,6 @@ ul.main-menu {
 }
 ul.main-menu>li {
     display: inline;
+    padding: 5%;
+    
 }
