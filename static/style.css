@@ -15,5 +15,6 @@ ul.main-menu {
 ul.main-menu>li {
     display: inline;
     padding: 5%;
+    marign: 3% auto;
     
 }
