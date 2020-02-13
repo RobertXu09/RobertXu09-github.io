@@ -1,20 +1,74 @@
 body {
-    background-color: white;
+    background-color: lightgoldenrodyellow;
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
+
+main {
+    width: 80%;
+    margin: auto;
+}
+
 h1 { 
-    color: blue;
-    margin: 3% auto;
-    text-align: center;
+    color: black;
+    margin: 1% 1%;
+    text-align: left;
+
+    font-size: 200%;
+
+    float: left;
 }
+
+.top-banner {
+    z-index: -1;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    background-color: lightpink;
+    box-sizing: border-box;
+    height: 75px;
+    margin-top: 1%;
+}
+
+.work-list {
+    list-style-type: none;
+}
+
 ul.main-menu {
     list-style-type: none;
-    margin: auto;
+
+    float: right;
+
+    width: 80%;
+
     padding: 0;
     text-align: center;
+
+    font-size: 130%;
 }
 ul.main-menu>li {
     display: inline;
-    padding: 5%;
-    marign: 3% auto;
-    
+    padding: 0 1%;
+
+}
+
+a:link, a:visited {
+    text-decoration: black none;
+}
+
+.current {
+    text-shadow: 0px 0px 1px black;
+}
+
+#cattree-img {
+    float: left;
+    padding: 0 2%;
+    height: 15em;
+    width: auto;
+}
+
+#profile-img {
+    margin: auto;
+    height: 25em;
+    width: auto;
+    padding: 2% 0 0 0;
+    align-self: center;
+    display: block;
 }
