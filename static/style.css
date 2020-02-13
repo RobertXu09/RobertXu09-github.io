@@ -29,6 +29,8 @@ h1 {
 
 .work-list {
     list-style-type: none;
+    color: black;
+    text-decoration: none;
 }
 
 ul.main-menu {
